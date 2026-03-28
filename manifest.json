@@ -1,0 +1,11 @@
+{
+    "project_name": "BookFind",
+    "version": "3.4.1",
+    "type": "php",
+    "launcher": {
+        "compatible": true,
+        "connection_types": ["ftp", "sql"],
+        "requires_sql": true,
+        "notes": "Infos utiles pour le déploiement"
+    }
+}
