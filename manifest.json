@@ -11,6 +11,6 @@
         "sql_schema_path": "actions/bookfind.sql",
         "ignore": [
             "actions/bookfind.sql"
-        ],
+        ]
     }
 }
