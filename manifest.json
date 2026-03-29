@@ -5,7 +5,6 @@
     "launcher": {
         "compatible": true,
         "connection_types": ["ftp", "sql"],
-        "requires_sql": true,
         "notes": "Infos utiles pour le déploiement",
         "requires_sql": true,
         "sql_schema_path": "actions/bookfind.sql",
